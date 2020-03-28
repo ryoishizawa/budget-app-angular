@@ -17,6 +17,6 @@ import { SummaryComponent } from './summary/summary.component';
     NoopAnimationsModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [SummaryComponent]
 })
 export class AppModule { }
